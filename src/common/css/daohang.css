@@ -1,0 +1,16 @@
+	#daohanglist{
+		list-style: none;
+		line-height: 50px;
+		margin-top: 20px ;
+	}
+	#daohangitem{
+		width: 150px;
+		display: inline;
+		float: left;
+		margin-right:50px ;
+		text-align: center;
+		font-size: 25px;
+	}
+	#daohangitem:hover{
+		background-color: rgba(149, 255, 220, 0.5);
+	}

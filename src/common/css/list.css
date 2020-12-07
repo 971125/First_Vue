@@ -1,0 +1,18 @@
+*{
+		margin: 0;
+		padding: 0;
+	}
+	#listul{
+		list-style: none;
+		width: 100%;
+	}
+	#listul li{
+		background-color: rgba(170, 255, 255, 0.5);
+		line-height: 50px;
+		margin-bottom: 10px;
+		padding:  auto;
+		text-align: center;
+	}
+	#listul li:hover{
+		background-color: rgba(170, 255, 255, 1);
+	}

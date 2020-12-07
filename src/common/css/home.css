@@ -1,0 +1,14 @@
+#objitem{
+		line-height: 30px;
+		text-align: left;
+		list-style: none;
+		border-bottom: #000000 solid 1px;
+	}
+	#read{
+		float: right; 
+		height: 100%; 
+		background-color: rgba(125, 255, 251, 0.5);
+	}
+	#read:hover{
+		background-color: rgba(0, 255, 247, 0.5);
+	}
